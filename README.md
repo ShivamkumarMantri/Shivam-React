@@ -1,2 +1,3 @@
 # shivam-aur-react
-This is my first git repository
+This is my first Git repository.
+Author - Shivamkumar Mantri 
